@@ -30,6 +30,8 @@ The following are criteria for a frequency distribution to be a binomial distrib
 # Developed by
 # Register Number:212220230005
 # Name: ASHWIN A O
+```
+```python
 import numpy as np
 import math
 import scipy.stats
