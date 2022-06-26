@@ -1,4 +1,6 @@
-# Fitting Poisson Distribution
+## Ex no: 2
+## Date: 13/4/2022
+# <p align="center">Fitting Poisson Distribution
 
 # Aim : 
 
